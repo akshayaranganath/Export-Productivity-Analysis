@@ -1,4 +1,10 @@
+*Author: Anonymous
+*Subject: Masters Thesis 
+*Date: 09/2024
+clear all
+set more off
 clear
+cd "C:\Users\aksha\OneDrive - The Pennsylvania State University\Desktop\Revamp\Thesis March 2024\Data\Prowess\1\1.31"
 import delimited "C:\Users\aksha\OneDrive - The Pennsylvania State University\Desktop\Revamp\Thesis March 2024\Data\Prowess\1\1.31\20231231_proditchs.dt"
 
 
